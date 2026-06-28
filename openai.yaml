@@ -1,7 +1,0 @@
-interface:
-  display_name: "Manuscript From Figures"
-  short_description: "Write complete biomedical drafts from figures and source evidence"
-  default_prompt: "Use $manuscript-from-figures to turn my figures, source files, and experimental notes into a complete manuscript draft without losing details."
-
-policy:
-  allow_implicit_invocation: true
